@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "Nederlands (NL)"
+    },
+    "strings": {
+        "username": "Gebruikersnaam",
+        "name": "Naam",
+        "password": "Wachtwoord",
+        "emailAddress": "E-mailadres",
+        "submit": "Verstuur",
+        "success": "Succes",
+        "continue": "Doorgaan",
+        "error": "Fout",
+        "copy": "Kopiëer",
+        "theme": "Thema",
+        "time24h": "24u-formaat",
+        "time12h": "12u-formaat",
+        "copied": "Gekopieerd",
+        "linkTelegram": "Koppel Telegram",
+        "contactEmail": "Stuur e-mailbericht",
+        "contactTelegram": "Stuur Telegram-bericht",
+        "send": "Verstuur",
+        "linkDiscord": "Koppel Discord",
+        "linkMatrix": "Koppel Matrix",
+        "contactDiscord": "Stuur Discord bericht",
+        "refresh": "Ververs",
+        "required": "Verplicht"
+    }
+}

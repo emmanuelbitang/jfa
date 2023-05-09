@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "name": "Inglese (US)"
+    },
+    "strings": {
+        "ifItWasNotYou": "Se non sei stato tu, puoi ignorare questa email.",
+        "helloUser": "Ciao {username},",
+        "reason": "Motivo"
+    },
+    "userCreated": {
+        "title": "Nota: Utente creato",
+        "aUserWasCreated": "Un utente è stato creato usando il codice {code}.",
+        "time": "Tempo",
+        "notificationNotice": "Nota: Le notifiche via email possono essere attivate nel pannello di admin."
+    },
+    "inviteExpiry": {
+        "title": "Nota: Invito scaduto",
+        "inviteExpired": "Invito scaduto.",
+        "expiredAt": "Il codice {code} è scaduto il {time}.",
+        "notificationNotice": "Nota: le e-mail di notifica possono essere attivate dal pannello di admin."
+    },
+    "passwordReset": {
+        "title": "Richiesto un reset della password - Jellyfin",
+        "someoneHasRequestedReset": "Qualcuno ha recentemente richiesto un reset della password su Jellyfin.",
+        "ifItWasYou": "Se sei stato tu, scrivi il PIN sotto alla richiesta.",
+        "codeExpiry": "Il codice scadrà in {date}, alle {time} UTC, che è alle {expiresInMinutes}.",
+        "pin": "PIN"
+    },
+    "userDeleted": {
+        "title": "Il tuo account è stato eliminato - Jellyfin",
+        "yourAccountWasDeleted": "Il tuo account di Jellyfin è stato eliminato."
+    },
+    "inviteEmail": {
+        "title": "Invita - Jellyfin",
+        "hello": "Salve",
+        "youHaveBeenInvited": "Sei stato inviatato su Jellyfin.",
+        "toJoin": "Per entrare, segui il link sotto.",
+        "inviteExpiry": "",
+        "linkButton": ""
+    },
+    "welcomeEmail": {
+        "title": "",
+        "welcome": "",
+        "youCanLoginWith": "",
+        "jellyfinURL": ""
+    },
+    "emailConfirmation": {
+        "title": "",
+        "clickBelow": "",
+        "confirmEmail": ""
+    }
+}

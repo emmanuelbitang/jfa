@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "name": "Svenska (SV)"
+    },
+    "strings": {
+        "username": "Användarnamn",
+        "password": "Lösenord",
+        "emailAddress": "E-postadress",
+        "name": "Namn",
+        "submit": "Skicka",
+        "success": "Lyckades",
+        "continue": "Fortsätt",
+        "error": "Fel",
+        "copy": "Kopiera",
+        "time24h": "24 timmarsklocka",
+        "time12h": "12 timmarsklocka",
+        "theme": "Tema"
+    }
+}

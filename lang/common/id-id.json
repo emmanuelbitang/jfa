@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "name": "Bahasa Indonesia (ID)"
+    },
+    "strings": {
+        "username": "Nama pengguna",
+        "password": "Sandi",
+        "emailAddress": "Alamat Email",
+        "name": "Nama",
+        "submit": "Submit",
+        "success": "Sukses",
+        "continue": "Lanjut",
+        "error": "Error",
+        "copy": "Salin",
+        "time24h": "Waktu 24 jam",
+        "time12h": "Waktu 12 jam",
+        "theme": "Tema",
+        "send": "Kirim"
+    }
+}

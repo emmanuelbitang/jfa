@@ -1,0 +1,36 @@
+{{ define "form-base" }}
+<script> 
+    window.usernameEnabled = {{ .username }};
+    window.validationStrings = JSON.parse({{ .validationStrings }});
+    window.invalidPassword = "{{ .strings.reEnterPasswordInvalid }}";
+    window.URLBase = "{{ .urlBase }}";
+    window.code = "{{ .code }}";
+    window.language = "{{ .langName }}";
+    window.messages = JSON.parse({{ .notifications }});
+    window.confirmation = {{ .confirmation }};
+    window.userExpiryEnabled = {{ .userExpiry }};
+    window.userExpiryMonths = {{ .userExpiryMonths }};
+    window.userExpiryDays = {{ .userExpiryDays }};
+    window.userExpiryHours = {{ .userExpiryHours }};
+    window.userExpiryMinutes = {{ .userExpiryMinutes }};
+    window.userExpiryMessage = {{ .userExpiryMessage }};
+    window.telegramEnabled = {{ .telegramEnabled }};
+    window.telegramRequired = {{ .telegramRequired }};
+    window.telegramPIN = "{{ .telegramPIN }}";
+    window.emailRequired = {{ .emailRequired }};
+    window.discordEnabled = {{ .discordEnabled }};
+    window.discordRequired = {{ .discordRequired }};
+    window.discordPIN = "{{ .discordPIN }}";
+    window.discordInviteLink = {{ .discordInviteLink }};
+    window.discordServerName = "{{ .discordServerName }}";
+    window.matrixEnabled = {{ .matrixEnabled }};
+    window.matrixRequired = {{ .matrixRequired }};
+    window.matrixUserID = "{{ .matrixUser }}";
+    window.captcha = {{ .captcha }};
+</script>
+{{ if .passwordReset }}
+<script src="js/pwr.js" type="module"></script>
+{{ else }}
+<script src="js/form.js" type="module"></script>
+{{ end }}
+{{ end }}

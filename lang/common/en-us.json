@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "name": "English (US)"
+    },
+    "strings": {
+        "username": "Username",
+        "password": "Password",
+        "emailAddress": "Email Address",
+        "name": "Name",
+        "submit": "Submit",
+        "send": "Send",
+        "success": "Success",
+        "continue": "Continue",
+        "error": "Error",
+        "copy": "Copy",
+        "copied": "Copied",
+        "time24h": "24h Time",
+        "time12h": "12h Time",
+        "linkTelegram": "Link Telegram",
+        "contactEmail": "Contact through Email",
+        "contactTelegram": "Contact through Telegram",
+        "linkDiscord": "Link Discord",
+        "linkMatrix": "Link Matrix",
+        "contactDiscord": "Contact through Discord",
+        "theme": "Theme",
+        "refresh": "Refresh",
+        "required": "Required"
+    }
+}
